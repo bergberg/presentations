@@ -1,0 +1,9 @@
+---
+title: "QP annual review"
+listing: 
+    id: course-listing
+    contents: "slides/*.qmd"
+    type: default
+    image-height: 7.5em
+---
+

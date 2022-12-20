@@ -1,0 +1,28 @@
+---
+title: "2022 year in review"
+subtitle: "ultra edition"
+author: "Pieter van den Berg="
+date: 2022-12-16
+date-format: long
+format: 
+    revealjs
+---
+
+
+## Highlights 2022
+
+#### ABN AMRO Bank
+
+ * Rewrote ABN AMRO's MoC framework
+   + It's much better now, thanks <<{ fa smile }>>
+   + No one is actually using it <<{ fa shrug }>>
+ * Advice on LGD Corporate redevelopment 
+
+#### ING
+ 
+ * Return to Compliance / article 146
+  + Methodology and execution capital measures
+  + Advice on ECB dialogue
+ * Permanent Partial Use / reversion strategy
+
+ 

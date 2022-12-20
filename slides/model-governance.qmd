@@ -1,0 +1,22 @@
+---
+title: "Model Risk Governance"
+subtitle: "Pitchstorm"
+author: "Pieter van den Berg="
+date: 2022-12-16
+date-format: long
+format: 
+    revealjs
+---
+
+
+
+
+## Failure Modes {.r-fit-text}
+
+ * Gaps in standards / methodologies
+   + No metastandards (when are standards complete?)
+   + No feedback (finding $\rightarrow$ update,  ...)
+   + Vague standards (unwarranted variability)
+
+ * Control gaps
+  + 
