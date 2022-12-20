@@ -1,5 +1,5 @@
 ---
-title: "QP annual review"
+title: "Presentations"
 listing: 
     id: course-listing
     contents: "slides/*.qmd"
