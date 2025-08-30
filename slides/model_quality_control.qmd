@@ -1,0 +1,46 @@
+---
+title: "Model Quality Control Framework"
+author: "Pieter van den Berg="
+date: 2024-01-23
+date-format: long
+format: 
+    revealjs
+---
+
+## Description 
+
+A set of **controls** to ensure **quality** of **deliverables** across a **model life cycle**
+
+. . .
+
+deliverables
+: code, data, documentation  
+
+quality
+: correctness, completeness, consistency, clarity, ...
+
+model life cycle
+: initiation, development, approval, use, retirement
+
+controls
+: ...
+ 
+## Motivation
+
+ * 
+
+
+## Purpose
+
+## Elements
+
+## Process
+
+## Execution Risks
+
+
+## Example
+
+## References
+
+

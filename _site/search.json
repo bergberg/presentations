@@ -7,6 +7,62 @@
     "text": "About this site"
   },
   {
+    "objectID": "slides/model_quality_control.html#description",
+    "href": "slides/model_quality_control.html#description",
+    "title": "Model Quality Control Framework",
+    "section": "Description",
+    "text": "Description\nA set of controls to ensure quality of deliverables across a model life cycle\n\n\ndeliverables\n\ncode, data, documentation\n\nquality\n\ncorrectness, completeness, consistency, clarity, …\n\nmodel life cycle\n\ninitiation, development, approval, use, retirement\n\ncontrols\n\n…"
+  },
+  {
+    "objectID": "slides/model_quality_control.html#motivation",
+    "href": "slides/model_quality_control.html#motivation",
+    "title": "Model Quality Control Framework",
+    "section": "Motivation",
+    "text": "Motivation"
+  },
+  {
+    "objectID": "slides/model_quality_control.html#purpose",
+    "href": "slides/model_quality_control.html#purpose",
+    "title": "Model Quality Control Framework",
+    "section": "Purpose",
+    "text": "Purpose"
+  },
+  {
+    "objectID": "slides/model_quality_control.html#elements",
+    "href": "slides/model_quality_control.html#elements",
+    "title": "Model Quality Control Framework",
+    "section": "Elements",
+    "text": "Elements"
+  },
+  {
+    "objectID": "slides/model_quality_control.html#process",
+    "href": "slides/model_quality_control.html#process",
+    "title": "Model Quality Control Framework",
+    "section": "Process",
+    "text": "Process"
+  },
+  {
+    "objectID": "slides/model_quality_control.html#execution-risks",
+    "href": "slides/model_quality_control.html#execution-risks",
+    "title": "Model Quality Control Framework",
+    "section": "Execution Risks",
+    "text": "Execution Risks"
+  },
+  {
+    "objectID": "slides/model_quality_control.html#example",
+    "href": "slides/model_quality_control.html#example",
+    "title": "Model Quality Control Framework",
+    "section": "Example",
+    "text": "Example"
+  },
+  {
+    "objectID": "slides/model_quality_control.html#references",
+    "href": "slides/model_quality_control.html#references",
+    "title": "Model Quality Control Framework",
+    "section": "References",
+    "text": "References"
+  },
+  {
     "objectID": "slides/model-governance.html#failure-modes",
     "href": "slides/model-governance.html#failure-modes",
     "title": "Model Risk Governance",
@@ -14,17 +70,10 @@
     "text": "Failure Modes\n\nGaps in standards / methodologies\n\nNo metastandards (when are standards complete?)\nNo feedback (finding \\(\\rightarrow\\) update, …)\nVague standards (unwarranted variability)\n\nControl gaps"
   },
   {
-    "objectID": "slides/2022.html#highlights-2022",
-    "href": "slides/2022.html#highlights-2022",
-    "title": "2022 year in review",
-    "section": "Highlights 2022",
-    "text": "Highlights 2022\nABN AMRO Bank\n\nRewrote ABN AMRO’s MoC framework\n\nIt’s much better now, thanks <<{ fa smile }>>\nNo one is actually using it <<{ fa shrug }>>\n\nAdvice on LGD Corporate redevelopment\n\nING\n\nReturn to Compliance / article 146\nMethodology and execution capital measures\nAdvice on ECB dialogue\nPermanent Partial Use / reversion strategy"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Presentations",
     "section": "",
-    "text": "2022 year in review\n\n\nultra edition\n\n\n\n\n\n\n\n\n\nDec 16, 2022\n\n\nPieter van den Berg=\n\n\n\n\n\n\n\n\nModel Risk Governance\n\n\nPitchstorm\n\n\n\n\n\n\n\n\n\nDec 16, 2022\n\n\nPieter van den Berg=\n\n\n\n\n\n\nNo matching items"
+    "text": "Model Quality Control Framework\n\n\n\n\n\n\n\n\n\n\n\n\nJan 23, 2024\n\n\nPieter van den Berg=\n\n\n\n\n\n\n  \n\n\n\n\nModel Risk Governance\n\n\nPitchstorm\n\n\n\n\n\n\n\n\n\nDec 16, 2022\n\n\nPieter van den Berg=\n\n\n\n\n\n\nNo matching items"
   }
 ]
